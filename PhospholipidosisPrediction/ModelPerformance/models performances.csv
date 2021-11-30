@@ -2,24 +2,24 @@ Models,Datasets,Metrics,Values
 svm,hold-out,recall,0.9
 svm,hold-out,AUC,0.832353
 svm,hold-out,MCC,0.674702
-svm,shuffled ,recall,0.25
-svm,shuffled ,AUC,0.360294
-svm,shuffled ,MCC,-0.287115
+svm,shuffled,recall,0.25
+svm,shuffled,AUC,0.360294
+svm,shuffled,MCC,-0.287115
 rf,hold-out,recall,0.9
 rf,hold-out,AUC,0.832353
 rf,hold-out,MCC,0.674702
-rf,shuffled ,recall,0.6
-rf,shuffled ,AUC,0.447059
-rf,shuffled ,MCC,-0.110531
+rf,shuffled,recall,0.6
+rf,shuffled,AUC,0.447059
+rf,shuffled,MCC,-0.110531
 gbm,hold-out,recall,0.85
 gbm,hold-out,AUC,0.836765
 gbm,hold-out,MCC,0.673529
-gbm,shuffled ,recall,0.8
-gbm,shuffled ,AUC,0.547059
-gbm,shuffled ,MCC,0.109323
+gbm,shuffled,recall,0.8
+gbm,shuffled,AUC,0.547059
+gbm,shuffled,MCC,0.109323
 meta rf,hold-out,recall,0.85
 meta rf,hold-out,AUC,0.866176
 meta rf,hold-out,MCC,0.730208
-meta rf,shuffled ,recall,0.45
-meta rf,shuffled ,AUC,0.430882
-meta rf,shuffled ,MCC,-0.137831
+meta rf,shuffled,recall,0.45
+meta rf,shuffled,AUC,0.430882
+meta rf,shuffled,MCC,-0.137831
