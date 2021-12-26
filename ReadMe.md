@@ -1,1 +1,3 @@
+# In silico prediction for potential non-phospholipidosis-inducing inhibitors against in vitro replication of SARS-CoV-2
+
 This project utilizes the powers of various machine learning models to predict whether a pre-approved drug is effective against SARS-CoV-2 and whether that molecule is phospholipidosis-inducing, the phenomenon that inhibits a drug from in vitro to in vivo translation. The knowledge gained from this project can provide new opportunities to screen larger libraries in a context closer to in vitro and thus judge additional already-approved drugs for repurposing against COVID-19 and its variants.
